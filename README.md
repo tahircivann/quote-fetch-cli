@@ -54,10 +54,17 @@ npm run fetch-quotes -- [options]
 ```
 
 ## Options
--n, --number <number> - Specify the number of quotes to fetch (default: 1).
--c, --character <characterSlug> - Fetch quotes from a specific character.
--k, --keyword <keyword> - Fetch quotes containing a specific keyword.
+ 
+ `-n, --number <number> - Specify the number of quotes to fetch (default: 1). `
+ `-c, --character <characterSlug> - Fetch quotes from a specific character. `
+ `-k, --keyword <keyword> - Fetch quotes containing a specific keyword. `
+ 
 Examples
+Fetch with all options:
+
+```sh
+npm run fetch-quotes -- --number=30 --keyword=tu --character=bill
+```
 Fetch a single random quote:
 
 ```sh
@@ -73,7 +80,7 @@ Fetch quotes from "Hubert":
 ```sh
 ossquotes -c hubert
 ```
-Fetch quotes containing "love":
+Fetch quotes containing "avec":
 
 ```sh
 ossquotes -k avec
