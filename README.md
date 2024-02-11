@@ -2,6 +2,10 @@
 
 `OSSQuotes` is a Node.js Command Line Interface (CLI) tool designed for fetching and displaying quotes from the OSS 117 quotes API. It offers functionality to retrieve random quotes, filter quotes by characters, or search for quotes containing specific keywords.
 
+
+![ZL91ReGm3Bpd5TQUs2_0eRkgMWbrLV455Xo82Wbh9rln-uQ40YrjrLiipup7uvpObcHTtudm46bH4YESgN4zQikPK1AInxQaih98C92vgnhhXoFO5ZKa8_9H04oedA5QWFUoKpiKGBfAAOwWp3UmyqCJRMRGnJHmo7Lehvg7B7JPcc6Yw5f9iH9Z7Uo-uFXkgFxLRFgCjchXve](https://github.com/tahircivann/quote-fetch-cli/assets/69795597/c6836d12-1dd0-4992-bf73-5318084bd568)
+
+
 ## Features
 
 - Retrieve a specified number of random quotes.
