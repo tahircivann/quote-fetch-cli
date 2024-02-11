@@ -31,8 +31,9 @@ Install the required dependencies.
 
 ```sh
 npm install
-Optionally, link the package globally to use the ossquotes command anywhere on your system.
 ```
+Optionally, link the package globally to use the ossquotes command anywhere on your system.
+
 
 ```sh
 npm link
