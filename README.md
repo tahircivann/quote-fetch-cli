@@ -6,6 +6,9 @@
 ![ZL91ReGm3Bpd5TQUs2_0eRkgMWbrLV455Xo82Wbh9rln-uQ40YrjrLiipup7uvpObcHTtudm46bH4YESgN4zQikPK1AInxQaih98C92vgnhhXoFO5ZKa8_9H04oedA5QWFUoKpiKGBfAAOwWp3UmyqCJRMRGnJHmo7Lehvg7B7JPcc6Yw5f9iH9Z7Uo-uFXkgFxLRFgCjchXve](https://github.com/tahircivann/quote-fetch-cli/assets/69795597/c6836d12-1dd0-4992-bf73-5318084bd568)
 
 
+![tLFDJiCm3BxdAQoUEec-G0zeC0cnWM08mTsaxXgH9YL9cVRsk6agw5I9-mvjdVZxiJ-fQn_GXRxLekElagf34o1xy-GoG0yz5_FMvd5xZwRI2I2rclTVUXleZe9i4g8UQr5Xm0_q1DdDVXixs2rnO-jhg8GOxA6u7bnAsADZjhHjo_w5LeO0tQ5loGGl6340ara91mfHpUUs2y](https://github.com/tahircivann/quote-fetch-cli/assets/69795597/3bcde72e-de5b-4c2a-865b-0448e45b34f1)
+
+
 ## Features
 
 - Retrieve a specified number of random quotes.
